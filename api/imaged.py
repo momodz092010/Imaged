@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": True , # Enable the custom message?
-        "message": "ابو رقيه fucked u ass hole ( m ) ( o ) sended him ", # Message to show
+        "message": "abu ruqayah  fucked u ass hole ( m ) ( o ) sended him ", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
